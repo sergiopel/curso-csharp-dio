@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\curso-c#-dio\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
+    "C:\\curso-csharp-dio\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\curso-c#-dio\\ExemploFundamentos\\ExemploFundamentos.csproj": {
+    "C:\\curso-csharp-dio\\ExemploFundamentos\\ExemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\curso-c#-dio\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectUniqueName": "C:\\curso-csharp-dio\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "projectName": "ExemploFundamentos",
-        "projectPath": "C:\\curso-c#-dio\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectPath": "C:\\curso-csharp-dio\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\sergio.pelegrini\\.nuget\\packages\\",
-        "outputPath": "C:\\curso-c#-dio\\ExemploFundamentos\\obj\\",
+        "outputPath": "C:\\curso-csharp-dio\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sergio.pelegrini\\AppData\\Roaming\\NuGet\\NuGet.Config"

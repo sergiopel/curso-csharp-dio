@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z2viV66p292aBUJy6AbTZsmlAkZHDotxGXM4aNKyLZVExa/z2tqNqsXPKognH4ZwXsYYssJB48yYQ12gSVn3rA==",
+  "dgSpecHash": "OkSeCoOTZuFQm1nBpC1iLIUf0UOSX4mixdssepOuSdDb2hgf413oa8YyEC/JD/hSuxfsu1zS+Y18qh2Jc8+Uzg==",
   "success": true,
-  "projectFilePath": "C:\\curso-c#-dio\\ExemploFundamentos\\ExemploFundamentos.csproj",
+  "projectFilePath": "C:\\curso-csharp-dio\\ExemploFundamentos\\ExemploFundamentos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
