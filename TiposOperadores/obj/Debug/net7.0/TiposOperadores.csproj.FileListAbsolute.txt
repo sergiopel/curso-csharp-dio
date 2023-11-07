@@ -1,0 +1,14 @@
+C:\curso-csharp-dio\TiposOperadores\bin\Debug\net7.0\TiposOperadores.exe
+C:\curso-csharp-dio\TiposOperadores\bin\Debug\net7.0\TiposOperadores.deps.json
+C:\curso-csharp-dio\TiposOperadores\bin\Debug\net7.0\TiposOperadores.runtimeconfig.json
+C:\curso-csharp-dio\TiposOperadores\bin\Debug\net7.0\TiposOperadores.dll
+C:\curso-csharp-dio\TiposOperadores\bin\Debug\net7.0\TiposOperadores.pdb
+C:\curso-csharp-dio\TiposOperadores\obj\Debug\net7.0\TiposOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso-csharp-dio\TiposOperadores\obj\Debug\net7.0\TiposOperadores.AssemblyInfoInputs.cache
+C:\curso-csharp-dio\TiposOperadores\obj\Debug\net7.0\TiposOperadores.AssemblyInfo.cs
+C:\curso-csharp-dio\TiposOperadores\obj\Debug\net7.0\TiposOperadores.csproj.CoreCompileInputs.cache
+C:\curso-csharp-dio\TiposOperadores\obj\Debug\net7.0\TiposOperadores.dll
+C:\curso-csharp-dio\TiposOperadores\obj\Debug\net7.0\refint\TiposOperadores.dll
+C:\curso-csharp-dio\TiposOperadores\obj\Debug\net7.0\TiposOperadores.pdb
+C:\curso-csharp-dio\TiposOperadores\obj\Debug\net7.0\TiposOperadores.genruntimeconfig.cache
+C:\curso-csharp-dio\TiposOperadores\obj\Debug\net7.0\ref\TiposOperadores.dll
